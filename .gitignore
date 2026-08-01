@@ -18,3 +18,9 @@ Wound_Environment/
 # Misc
 *.zip
 .DS_Store
+runs/detect/val*
+best_model.pt
+yolo26m.pt
+yolo26n.pt
+yolo26l.pt
+static/
