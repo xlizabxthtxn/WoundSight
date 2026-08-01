@@ -1,0 +1,20 @@
+# Weights
+*.pt
+
+# Dataset
+azh_dataset/
+wound_dataset/
+
+# App runtime
+static/uploads/
+static/results/
+static/curves/
+
+# Python
+__pycache__/
+*.pyc
+Wound_Environment/
+
+# Misc
+*.zip
+.DS_Store
