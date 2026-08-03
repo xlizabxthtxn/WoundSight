@@ -30,3 +30,9 @@ python3 train.py --device 0 --epochs 250 --name SGD_250
 
 ## Hardware
 NVIDIA L4 GPU, AWS ParallelCluster, Python 3.12, PyTorch 2.4.0+cu124
+
+## Dataset
+AZH Clinical Wound Dataset — 930 images, 6 classes
+- Source: AZH Wound and Vascular Center, Milwaukee, Wisconsin
+- Split: 70:20:10 (train/val/test), seed 42
+- Classes: Background, Normal, Diabetic, Pressure, Surgical, Venous
