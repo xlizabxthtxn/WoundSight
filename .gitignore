@@ -2,8 +2,6 @@
 *.pt
 
 # Dataset
-azh_dataset/
-wound_dataset/
 
 # App runtime
 static/uploads/
